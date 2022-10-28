@@ -1,0 +1,7 @@
+# This is a list of public APIs available for developers in Lesotho
+
+1. Google Translate 
+ With google translate, you can build AI powered applications in Sesotho
+ 
+ 2. Dialogflow - Another Google product
+  You can build AI powered bots and integrate available places, businesses and services google already posseses
