@@ -1,0 +1,23 @@
+## Lesotho has two network operators which are Econet Telecom Lesotho ( Known as Econet) and Vodacom Lesotho ( Known as VCL) .
+## This document helps you understand or validate your application by the following guidelines
+## Lesotho's telephone numbers are made up of 8 numbers. 
+
+1. Econet Telecom Lesotho ( https://www.etl.co.ls )
+MSISDN Format: Econet numbers begin with a 6 eg( 62-xxxxxx, 63-xxxxxx, 64-xxxxx) & finally the landline which usually begings with 22-xxxxxx
+
+WASP Services:
+ Ecocash - *999#
+ USSD Menu - *100#
+ Account Top Up - *133*secret_number#
+ Balance Inquiry - *134#
+ Call Centre - 112
+ 
+2. Vodacom Lesotho ( https://www.vodacom.co.ls )
+MSISDN Format: VCL numbers begin with a 5 eg( 50-xxxxxx, 51-xxxxx, 52-xxxxx, 53-xxxxx, 54-xxxxx, 56-xxxxx, 57-xxxxx,  58-xxxxx, 59-xxxxxx), 55-xxxxxx has not been released yet! 
+
+WASP Services:
+ Mpesa - *999#
+ USSD Menu - *111#
+ Account Top Up - *100*01*secret_number#
+ Balance Inquiry - *100#
+ Call Centre - 114
