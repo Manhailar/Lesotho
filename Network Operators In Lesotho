@@ -1,6 +1,7 @@
 ## Lesotho has two network operators which are Econet Telecom Lesotho ( Known as Econet) and Vodacom Lesotho ( Known as VCL) .
 ## This document helps you understand or validate your application by the following guidelines
 ## Lesotho's telephone numbers are made up of 8 numbers. 
+## Country Code is +266
 
 1. Econet Telecom Lesotho ( https://www.etl.co.ls )
 MSISDN Format: Econet numbers begin with a 6 eg( 62-xxxxxx, 63-xxxxxx, 64-xxxxx) & finally the landline which usually begings with 22-xxxxxx
